@@ -16,9 +16,9 @@ App({
   globalData: {
     userInfo: null,
     // host: 'https://iabeta.njia.org.cn',
-    host: 'https://ia.njia.org.cn',
+    // host: 'https://ia.njia.org.cn',
     // host: 'http://58.240.75.5:9527',
-    // host: 'http://58.240.75.4:9527',
+    host: 'http://58.240.75.4:9527',
     // userid: '',
     // username: '',
     // userrole: '',
